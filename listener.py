@@ -1,4 +1,4 @@
-class Listener:
+class GenericListener:
     def __init__(self, listenerName):
         self.listenerName = listenerName
 
